@@ -1,7 +1,7 @@
 ### Olá! Eu sou o LucasBrit
 
 - 🔭 Hoje trabalho como Estagiário de Governança de Ti
-- 🌱 Estou no 2° Semestre da faculdade de ADS
+- 🌱 Estou no 3° Semestre da faculdade de ADS
 - 📫 Estudando html, css, java, javascript, MySQL
 - 💻 Estudando para me tornar um programador
 - 💬 Contate-me pelo e-mail: contatolucasbrito0@gmail.com
